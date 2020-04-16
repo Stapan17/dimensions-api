@@ -1,5 +1,3 @@
-# dimensions-api
-
 # Running on your local system
 
 # Clone the repository
